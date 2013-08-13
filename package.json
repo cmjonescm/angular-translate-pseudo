@@ -1,0 +1,11 @@
+{
+    "name": "pseudo-translate",
+    "version": "0.0.1",
+    "description": "angular-pseudo-translate",
+    "main": "pseudo.js",
+    "dependencies": {},
+    "devDependencies": {},
+    "scripts": {
+        "start": "node pseudo.js"
+    }
+}
