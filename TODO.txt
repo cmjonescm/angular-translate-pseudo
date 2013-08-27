@@ -1,0 +1,8 @@
+
+TODO:
+
+1) Read parameters off the command line: eg. pseudo <input>, <output>, json|js|both
+2) Output format either json or js
+3) Add unit tests
+4) Add code coverage support
+5) Add mocha
