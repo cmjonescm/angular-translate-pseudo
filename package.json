@@ -4,11 +4,13 @@
     "description": "angular-pseudo-translate",
     "main": "pseudo.js",
     "dependencies": {
+        "optimist": "~0.6.0"
+    },
+    "devDependencies": {
         "blanket": "~1.1.5",
         "sinon": "~1.7.3",
         "should": "~0.6.3"
     },
-    "devDependencies": {},
     "scripts": {
         "start": "node pseudo.js",
         "blanket": {

@@ -6,3 +6,4 @@ TODO:
 3) Add unit tests
 4) Add code coverage support
 5) Add mocha
+6) Ability to configure the pseudo transform
