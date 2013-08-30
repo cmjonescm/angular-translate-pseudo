@@ -15,11 +15,11 @@ describe('pseudo translate unit tests, ', function(){
         // Arrange
        var PSEUDO_RESULT = "_ááééííóóúú_";
        var input = {
-           "language": "en-US",
+           "language": "XXXXX",
            "table": {
                "EXAMPLE_ID": "aeiou"
            }
-       }
+       };
 
         // Action
         var pseudoed = pseudo.trans(input);
@@ -28,15 +28,33 @@ describe('pseudo translate unit tests, ', function(){
         pseudoed.table.EXAMPLE_ID.should.equal(PSEUDO_RESULT);
     });
 
+    it('should pseudo translate a single uppercase ID in the table.', function(){
+        // Arrange
+        var PSEUDO_RESULT = "_ááééííóóúú_";
+        var input = {
+            "language": "XXXXX",
+            "table": {
+                "EXAMPLE_ID": "AEIOU"
+            }
+        };
+
+        // Action
+        var pseudoed = pseudo.trans(input);
+
+        // Assert
+        pseudoed.table.EXAMPLE_ID.should.equal(PSEUDO_RESULT);
+    });
+
+
     it('should pseudo translate a ID in the table.', function(){
         // Arrange
         var PSEUDO_RESULT = "_bbbbb_";
         var input = {
-            "language": "en-US",
+            "language": "XXXXX",
             "table": {
                 "EXAMPLE_ID": "bbbbb"
             }
-        }
+        };
 
         // Action
         var pseudoed = pseudo.trans(input);
@@ -50,7 +68,7 @@ describe('pseudo translate unit tests, ', function(){
         // Arrange
         var PSEUDO_RESULT = "_ááééííóóúú_";
         var input = {
-            "language": "en-US",
+            "language": "XXXXX",
             "table": {
                 "EXAMPLE_ONE_ID": "aeiou",
                 "EXAMPLE_TWO_ID": "aeiou",
@@ -58,7 +76,7 @@ describe('pseudo translate unit tests, ', function(){
                 "EXAMPLE_FOUR_ID": "aeiou",
                 "EXAMPLE_FIVE_ID": "aeiou"
             }
-        }
+        };
 
         // Action
         var pseudoed = pseudo.trans(input);
@@ -70,6 +88,30 @@ describe('pseudo translate unit tests, ', function(){
         pseudoed.table.EXAMPLE_FOUR_ID.should.equal(PSEUDO_RESULT);
         pseudoed.table.EXAMPLE_FIVE_ID.should.equal(PSEUDO_RESULT);
     });
+
+
+
+    it('should.', function(){
+        // Arrange
+        var PSEUDO_RESULT = "_Váácúúúúm stáátúús_";
+        var input = {
+            "language": "XXXXX",
+            "table": {
+                "VACUUM_STATUS_LABEL_ID": "Vacuum status"
+
+            }
+        };
+
+        // Action
+        var pseudoed = pseudo.trans(input);
+
+        // Assert
+        pseudoed.table.VACUUM_STATUS_LABEL_ID.should.equal(PSEUDO_RESULT);
+
+    });
+
+
+
 
 
 });

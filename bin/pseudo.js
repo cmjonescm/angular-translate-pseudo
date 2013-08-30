@@ -1,23 +1,28 @@
-// Steps:
-// 1) Get the path/filename from the command line of the file to pseudo-translate
-// 2) Read the json file
-// 3) Parse and Pseudo Translate the file
-// 4) Output the pseudo-translated file
+
+
+// usage: pseudo -i file1.js -o file2.js -t both
+
+// e.g: pseudo -i translation_en_US.json -o translation_en_pseudo.json -t json
+
 
 var fs = require('fs');
 var cli = require('../lib/cli');
+var check = require('../lib/argCheck');
 var io = require('../lib/fileAccess').init(fs);
 var pseudo = require('../lib/pseudoTrans');
 
 console.log("Performing pseudo-translate...");
 
-var cmd = cli.process();
-var data = io.read(cmd.fromFile);
-var pseudoed = pseudo.trans(data);
-io.write(cmd.toFile, pseudoed);
+var cmds = cli.process();
 
-console.log("Output filename: translation_en_pseudo.json");
-console.log("Done.");
+if (check.validate(cmds)){
+    var data = io.read(cmds.fromFile);
+    var pseudoed = pseudo.trans(data);
+    io.write(cmds.toFile, pseudoed);
+
+    console.log("Output filename: translation_en_pseudo.json");
+    console.log("Done.");
+}
 
 
 

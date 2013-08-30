@@ -7,3 +7,4 @@ TODO:
 4) Add code coverage support
 5) Add mocha
 6) Ability to configure the pseudo transform
+7) Add some command line help support.
