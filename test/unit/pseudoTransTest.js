@@ -91,9 +91,9 @@ describe('pseudo translate unit tests, ', function(){
 
 
 
-    it('should.', function(){
+    it('should return a real life pseudoed string.', function(){
         // Arrange
-        var PSEUDO_RESULT = "_Váácúúúúm stáátúús_";
+        var PSEUDO_RESULT = "_Váácúúúúm..stáátúús_";
         var input = {
             "language": "XXXXX",
             "table": {
@@ -107,11 +107,92 @@ describe('pseudo translate unit tests, ', function(){
 
         // Assert
         pseudoed.table.VACUUM_STATUS_LABEL_ID.should.equal(PSEUDO_RESULT);
-
     });
 
 
+    it('should switch off transforming space characters to dots.', function(){
+        // Arrange
+        var PSEUDO_RESULT = "_Váácúúúúm stáátúús_";
+        var input = {
+            "language": "XXXXX",
+            "table": {
+                "VACUUM_STATUS_LABEL_ID": "Vacuum status"
 
+            }
+        };
+
+        pseudo.spaceDots(false);
+
+        // Action
+        var pseudoed = pseudo.trans(input);
+
+        // Assert
+        pseudoed.table.VACUUM_STATUS_LABEL_ID.should.equal(PSEUDO_RESULT);
+    });
+
+    it('should convert all space character to 5 dots.', function(){
+        // Arrange
+        var PSEUDO_RESULT = "_Váácúúúúm.....stáátúús_";
+        var input = {
+            "language": "XXXXX",
+            "table": {
+                "VACUUM_STATUS_LABEL_ID": "Vacuum status"
+
+            }
+        };
+
+        pseudo.spaceDots(true, 5);
+
+        // Action
+        var pseudoed = pseudo.trans(input);
+
+        // Assert
+        pseudoed.table.VACUUM_STATUS_LABEL_ID.should.equal(PSEUDO_RESULT);
+    });
+
+    it('should not double up pseudo characters.', function(){
+        // Arrange
+        var PSEUDO_RESULT = "_Vácúúm státús_";
+        var input = {
+            "language": "XXXXX",
+            "table": {
+                "VACUUM_STATUS_LABEL_ID": "Vacuum status"
+
+            }
+        };
+
+        pseudo.spaceDots(false);
+        pseudo.doubleUp(false);
+
+        // Action
+        var pseudoed = pseudo.trans(input);
+
+        // Assert
+        pseudoed.table.VACUUM_STATUS_LABEL_ID.should.equal(PSEUDO_RESULT);
+    });
+
+
+    it('should add pre/post underscores.', function(){
+        // Arrange
+        var PSEUDO_RESULT = "Vácúúm státús";
+        var input = {
+            "language": "XXXXX",
+            "table": {
+                "VACUUM_STATUS_LABEL_ID": "Vacuum status"
+
+            }
+        };
+
+        pseudo.spaceDots(false);
+        pseudo.doubleUp(false);
+        pseudo.prePostUnderScore(false);
+
+        // Action
+        var pseudoed = pseudo.trans(input);
+
+        // Assert
+        pseudoed.table.VACUUM_STATUS_LABEL_ID.should.equal(PSEUDO_RESULT);
+    });
 
 
 });
