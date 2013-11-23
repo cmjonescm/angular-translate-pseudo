@@ -4,38 +4,16 @@
     <list default="true" id="a0e45549-97c5-4194-9e12-b4cb2fc94750" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TODO.txt" afterPath="$PROJECT_DIR$/TODO.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/cli.js" afterPath="$PROJECT_DIR$/lib/cli.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/fileAccess.js" afterPath="$PROJECT_DIR$/lib/fileAccess.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/pseudo.js" afterPath="$PROJECT_DIR$/bin/pseudo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/pseudoTrans.js" afterPath="$PROJECT_DIR$/lib/pseudoTrans.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/translationTables.js" afterPath="$PROJECT_DIR$/translationTables.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/translation_en_US.json" afterPath="$PROJECT_DIR$/translation_en_US.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/translation_en_pseudo.json" afterPath="$PROJECT_DIR$/translation_en_pseudo.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="angular-translate-pseudo.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="a0e45549-97c5-4194-9e12-b4cb2fc94750" time="1377780100693" ignored="false" />
-    <file path="/pseudo.js" changelist="a0e45549-97c5-4194-9e12-b4cb2fc94750" time="1376469070719" ignored="false" />
-    <file path="/pseudoTrans.js" changelist="a0e45549-97c5-4194-9e12-b4cb2fc94750" time="1376468155453" ignored="false" />
-    <file path="/cli.js" changelist="a0e45549-97c5-4194-9e12-b4cb2fc94750" time="1377727236981" ignored="false" />
-    <file path="/fileAccess.js" changelist="a0e45549-97c5-4194-9e12-b4cb2fc94750" time="1376468908536" ignored="false" />
-    <file path="C:/Typhoon/webserver/package.json" changelist="a0e45549-97c5-4194-9e12-b4cb2fc94750" time="1377772285231" ignored="false" />
-    <file path="/package.json" changelist="a0e45549-97c5-4194-9e12-b4cb2fc94750" time="1377635084657" ignored="false" />
-    <file path="/TODO.txt" changelist="a0e45549-97c5-4194-9e12-b4cb2fc94750" time="1377677422798" ignored="false" />
-    <file path="/.gitignore" changelist="a0e45549-97c5-4194-9e12-b4cb2fc94750" time="1377636314375" ignored="false" />
-    <file path="/pseudoTransTest.js" changelist="a0e45549-97c5-4194-9e12-b4cb2fc94750" time="1377637579450" ignored="false" />
-    <file path="$USER_HOME$/AppData/Roaming/npm/node_modules/karma/config.tpl.js" changelist="a0e45549-97c5-4194-9e12-b4cb2fc94750" time="1377677790575" ignored="false" />
-    <file path="C:/Typhoon/webserver/framework/client/site/core/settingCtrl/propertiesService.js" changelist="a0e45549-97c5-4194-9e12-b4cb2fc94750" time="1377763260761" ignored="false" />
-    <file path="/propertiesService.js" changelist="a0e45549-97c5-4194-9e12-b4cb2fc94750" time="1377763247401" ignored="false" />
-    <file path="C:/Typhoon/webserver/modules/app.js" changelist="a0e45549-97c5-4194-9e12-b4cb2fc94750" time="1377770796411" ignored="false" />
-    <file path="C:/Typhoon/webserver/framework/client/site/test/unit/propertiesServiceTest.js" changelist="a0e45549-97c5-4194-9e12-b4cb2fc94750" time="1377780929683" ignored="false" />
-    <file path="C:/Typhoon/webserver/modules/instrument/tune/server/readbacksServer.js" changelist="a0e45549-97c5-4194-9e12-b4cb2fc94750" time="1377782019460" ignored="false" />
-    <file path="C:/Typhoon/webserver/framework/client/site/core/scanBlockPopout/scanBlockPopout.html" changelist="a0e45549-97c5-4194-9e12-b4cb2fc94750" time="1377782476655" ignored="false" />
-    <file path="C:/Typhoon/webserver/framework/client/site/core/plotPanel/scanBlockPopout.html" changelist="a0e45549-97c5-4194-9e12-b4cb2fc94750" time="1377786644647" ignored="false" />
-    <file path="C:/Typhoon/webserver/modules/instrument/tune/server/tuneAppWebServer.js" changelist="a0e45549-97c5-4194-9e12-b4cb2fc94750" time="1377790289954" ignored="false" />
-    <file path="C:/Typhoon/webserver/framework/server/webServer.js" changelist="a0e45549-97c5-4194-9e12-b4cb2fc94750" time="1377789971023" ignored="false" />
-    <file path="C:/Typhoon/webserver/modules/instrument/tune/server/manualTune.js" changelist="a0e45549-97c5-4194-9e12-b4cb2fc94750" time="1377787330043" ignored="false" />
-    <file path="/manualTune.js" changelist="a0e45549-97c5-4194-9e12-b4cb2fc94750" time="1377787330043" ignored="false" />
-    <file path="C:/Typhoon/webserver/framework/client/site/core/dashBoardController.js" changelist="a0e45549-97c5-4194-9e12-b4cb2fc94750" time="1377790751520" ignored="false" />
-    <file path="/dashBoardController.js" changelist="a0e45549-97c5-4194-9e12-b4cb2fc94750" time="1377787761544" ignored="false" />
-    <file path="/tuneAppWebServer.js" changelist="a0e45549-97c5-4194-9e12-b4cb2fc94750" time="1377788604984" ignored="false" />
-    <file path="C:/Typhoon/webserver/server.js" changelist="a0e45549-97c5-4194-9e12-b4cb2fc94750" time="1377789395147" ignored="false" />
-    <file path="C:/Typhoon/webserver/modules/wrens/console/server/wrensWebServer.js" changelist="a0e45549-97c5-4194-9e12-b4cb2fc94750" time="1377790488939" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,82 +33,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pseudoTrans.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/pseudoTrans.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="75" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TODO.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TODO.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="23" selection-start="232" selection-end="232" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="translation_en_US.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/translation_en_US.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="95" column="63" selection-start="4319" selection-end="4319" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="translation_en_pseudo.json" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/translation_en_pseudo.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="69" selection-start="1861" selection-end="1861" vertical-scroll-proportion="0.6856257">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="74" selection-start="489" selection-end="489" vertical-scroll-proportion="-13.076923">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="cli.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/cli.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="23" selection-start="742" selection-end="742" vertical-scroll-proportion="0.0">
+            <state line="60" column="0" selection-start="960" selection-end="960" vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="1547">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pseudoTransTest.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/unit/pseudoTransTest.js">
+      <file leaf-file-name="translationTables.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/translationTables.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="54" selection-start="1002" selection-end="1002" vertical-scroll-proportion="0.0">
+            <state line="125" column="0" selection-start="5830" selection-end="5830" vertical-scroll-proportion="0.0" vertical-offset="2125" max-vertical-offset="2227">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="run.cmd" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/run.cmd">
+      <file leaf-file-name="pseudo.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/pseudo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="16" selection-end="16" vertical-scroll-proportion="0.0">
+            <state line="5" column="91" selection-start="93" selection-end="176" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="runcov.cmd" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/runcov.cmd">
+      <file leaf-file-name="runner.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/runner.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0">
+            <state line="19" column="2" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="translation_en_pseudo.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/translation_en_pseudo.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="7" selection-start="8" selection-end="9" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="3264">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pseudoTrans.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/pseudoTrans.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="2" selection-start="181" selection-end="181" vertical-scroll-proportion="0.37209302" vertical-offset="17" max-vertical-offset="2006">
               <folding />
             </state>
           </provider>
@@ -154,29 +105,30 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/translation_en_US.js" />
-        <option value="$PROJECT_DIR$/translation_en_US.json" />
-        <option value="$PROJECT_DIR$/lib/fileAccess.js" />
-        <option value="$PROJECT_DIR$/translation_en_pseudo.json" />
-        <option value="$PROJECT_DIR$/bin/pseudo.js" />
-        <option value="$PROJECT_DIR$/translationTables.js" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/test/pseudoTransTest.js" />
-        <option value="$PROJECT_DIR$/lib/pseudoTrans.js" />
         <option value="$PROJECT_DIR$/run.cmd" />
         <option value="$PROJECT_DIR$/runcov.cmd" />
-        <option value="$PROJECT_DIR$/test/unit/pseudoTransTest.js" />
-        <option value="$PROJECT_DIR$/TODO.txt" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/lib/argValidation" />
+        <option value="$PROJECT_DIR$/lib/argCheck.js" />
+        <option value="$PROJECT_DIR$/test/unit/pseudoTransTest.js" />
+        <option value="$PROJECT_DIR$/translationTables.js" />
+        <option value="$PROJECT_DIR$/TODO.txt" />
+        <option value="$PROJECT_DIR$/lib/fileAccess.js" />
+        <option value="$PROJECT_DIR$/lib/runner.js" />
         <option value="$PROJECT_DIR$/lib/cli.js" />
+        <option value="$PROJECT_DIR$/bin/pseudo.js" />
+        <option value="$PROJECT_DIR$/translation_en_US.json" />
+        <option value="$PROJECT_DIR$/translation_en_pseudo.json" />
+        <option value="$PROJECT_DIR$/lib/pseudoTrans.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1176" />
+    <option name="width" value="1612" />
+    <option name="height" value="912" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -236,24 +188,6 @@
               <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="unit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular-translate-pseudo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular-translate-pseudo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -289,10 +223,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/Typhoon/webserver" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/bin/pseudo.js" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.App">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -308,7 +244,28 @@
       <setting name="preferredDebugBrowser" value="CHROME" />
       <method />
     </configuration>
-    <list size="0" />
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="$PROJECT_DIR$">
+      <browser start="false" url="" with-js-debugger="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Mocha Server" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="$USER_HOME$/AppData/Roaming/npm/node_modules/mocha/bin/_mocha" application-parameters="test/unit" working-dir="$PROJECT_DIR$">
+      <browser start="false" url="" with-js-debugger="false" />
+      <RunnerSettings RunnerId="NodeJS.debug" />
+      <ConfigurationWrapper RunnerId="NodeJS.debug" />
+      <method />
+    </configuration>
+    <configuration default="false" name="App" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="bin/pseudo.js" application-parameters="run -i translation_en_US.json -o translation_en_pseudo.json -t json" node-parameters="--debug-brk" working-dir="$PROJECT_DIR$">
+      <browser start="false" url="" with-js-debugger="false" />
+      <RunnerSettings RunnerId="NodeJS.debug" />
+      <RunnerSettings RunnerId="NodeJS.run" />
+      <ConfigurationWrapper RunnerId="NodeJS.debug" />
+      <ConfigurationWrapper RunnerId="NodeJS.run" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.Mocha Server" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.App" />
+    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
@@ -320,23 +277,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1612" height="912" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27816412" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16078018" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23076923" sideWeight="0.7448479" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2551521" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973504" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="JsTestDriver Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967743" sideWeight="0.6036161" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -346,159 +305,119 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="CHECK_NEW_TODO" value="true" />
     <option name="myTodoPanelSettings">
-      <value>
-        <are-packages-shown value="false" />
-        <are-modules-shown value="false" />
-        <flatten-packages value="false" />
-        <is-autoscroll-to-source value="false" />
-      </value>
+      <TodoPanelSettings />
     </option>
-    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
-    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
-    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
-    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
-    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
-    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
-    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
-    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
-    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
-    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
-    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
-    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
-    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
-    <option name="LIMIT_HISTORY" value="true" />
-    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
-    <option name="UPDATE_FILTER_SCOPE_NAME" />
-    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
-    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
-    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
-    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
-    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
-    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
-    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
-    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
-    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
-    <option name="ACTIVE_VCS_NAME" />
-    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
-    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
-    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
-    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
-    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/cli.js</url>
+          <line>10</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="12" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/runcov.cmd">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="1" column="0" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
-    <entry file="file://C:/Typhoon/webserver/framework/server/dashBoard/pluginManager.js">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="28" selection-start="1413" selection-end="1413" vertical-scroll-proportion="0.25679758" />
+        <state line="20" column="1" selection-start="489" selection-end="489" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
-    <entry file="file://C:/Typhoon/webserver/framework/client/site/libs/angular/angular-translate.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/should/lib/should.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="80" selection-start="2372" selection-end="2372" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/fileAccess.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="26" selection-start="141" selection-end="141" vertical-scroll-proportion="0.26406926" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/pseudo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="13" selection-start="610" selection-end="610" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="12" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/run.cmd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="16" selection-end="16" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/runcov.cmd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="303" column="0" selection-start="5048" selection-end="5048" vertical-scroll-proportion="0.3327645" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/unit/pseudoTransTest.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="54" selection-start="1002" selection-end="1002" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/pseudoTrans.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="75" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="149" column="4" selection-start="3982" selection-end="3982" vertical-scroll-proportion="0.5743146" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TODO.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="23" selection-start="232" selection-end="232" vertical-scroll-proportion="0.0">
+        <state line="3" column="0" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.WebStorm6/system/extLibs/nodejs-v0.10.12-src/core-modules-sources/lib/path.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="208" column="0" selection-start="6839" selection-end="6839" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.WebStorm6/system/extLibs/nodejs-v0.10.12-src/core-modules-sources/lib/module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="379" column="0" selection-start="10618" selection-end="10618" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/cli.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="0" selection-start="960" selection-end="960" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/translationTables.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="125" column="0" selection-start="5830" selection-end="5830" vertical-scroll-proportion="0.0" vertical-offset="2125" max-vertical-offset="2227">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/fileAccess.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="2" selection-start="571" selection-end="571" vertical-scroll-proportion="0.60465115" vertical-offset="0" max-vertical-offset="731">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/runner.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="2" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/translation_en_US.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="95" column="63" selection-start="4319" selection-end="4319" vertical-scroll-proportion="0.0">
+        <state line="27" column="36" selection-start="1120" selection-end="1120" vertical-scroll-proportion="0.65106386" vertical-offset="0" max-vertical-offset="3264">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/cli.js">
+    <entry file="file://$PROJECT_DIR$/lib/argCheck.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="23" selection-start="742" selection-end="742" vertical-scroll-proportion="0.0">
+        <state line="10" column="0" selection-start="250" selection-end="250" vertical-scroll-proportion="0.13953489" vertical-offset="68" max-vertical-offset="799">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/bin/pseudo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="74" selection-start="489" selection-end="489" vertical-scroll-proportion="-13.076923">
+        <state line="5" column="91" selection-start="93" selection-end="176" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/translation_en_pseudo.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="69" selection-start="1861" selection-end="1861" vertical-scroll-proportion="0.6856257">
+        <state line="1" column="7" selection-start="8" selection-end="9" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="3264">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/pseudoTrans.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="2" selection-start="181" selection-end="181" vertical-scroll-proportion="0.37209302" vertical-offset="17" max-vertical-offset="2006">
           <folding />
         </state>
       </provider>

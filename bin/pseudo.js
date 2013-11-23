@@ -1,28 +1,29 @@
+#!/usr/bin/env node
+'use strict';
 
 
 // usage: pseudo -i file1.js -o file2.js -t both
+// e.g: node bin/pseudo run -i translation_en_US.json -o translation_en_pseudo.json -t json
 
-// e.g: pseudo -i translation_en_US.json -o translation_en_pseudo.json -t json
-
-
-var fs = require('fs');
+var path = require('path');
 var cli = require('../lib/cli');
-var check = require('../lib/argCheck');
-var io = require('../lib/fileAccess').init(fs);
-var pseudo = require('../lib/pseudoTrans');
 
 console.log("Performing pseudo-translate...");
 
-var cmds = cli.process();
+var dir = path.join('..', 'lib');
 
-if (check.validate(cmds)){
-    var data = io.read(cmds.fromFile);
-    var pseudoed = pseudo.trans(data);
-    io.write(cmds.toFile, pseudoed);
+var config = cli.process();
 
-    console.log("Output filename: translation_en_pseudo.json");
-    console.log("Done.");
+switch (config.cmd) {
+    case 'run':
+        require(path.join(dir, 'runner')).start(config);
+        break;
+
+    case 'batch':
+//        require(path.join(dir, 'runner')).run(config);
+        break;
 }
+
 
 
 
